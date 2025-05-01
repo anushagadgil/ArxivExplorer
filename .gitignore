@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Dataset and index
+data/
+db/
+index/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
