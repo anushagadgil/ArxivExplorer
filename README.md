@@ -19,7 +19,7 @@ ArxivExplorer is an agentic AI system that allows users to search, explore, and 
 - Streamlit (interface)
 
 ## File Structure
-
+<pre>
 ArxivExplorer/
 │
 ├── agents/
@@ -39,7 +39,7 @@ ArxivExplorer/
 ├── streamlit_app.py
 ├── .env
 └── requirements.txt
-
+</pre>
 ## Getting Started
 
 ```bash
