@@ -1,18 +1,24 @@
-# Byte-compiled / cache files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.so
 
 # Virtual environment
 venv/
+.env
 
-# Dataset and index
-data/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# FAISS index and local DB files
 db/
 index/
 
-# Environment variables
-.env
+# Dataset files
+data/
 
-# VSCode settings
-.vscode/
+# macOS system files
+.DS_Store
+
+# Streamlit logs and cache
+.streamlit/
